@@ -1,5 +1,5 @@
 #! python3
-# Adding a comment for demo purposes.
+# Adding a comment for demo purposes
 # samplewebservicecall.py
 import requests
 import json
