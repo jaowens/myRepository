@@ -1,4 +1,4 @@
-#! python2
+#! python3
 # samplewebservicecall.py
 import requests
 import json
